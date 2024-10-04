@@ -1,0 +1,15 @@
+.stApp > header {
+    background-color: transparent;
+    background-image: url('https://www.leguiderh.fr/sites/default/files/styles/page_article_vignette/public/2023-09/trier-cv-candidats.png?itok=rW1a3W30');
+
+}
+
+.stApp {
+    margin: auto;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    overflow: auto;
+    background: linear-gradient(315deg, #be0f98b4 3%, #d40eba9f 38%, #cf36bb48 68%, #b31f9a50 98%);
+    animation: gradient 15s ease infinite;
+    background-size: 400% 400%;
+    background-attachment: fixed;
+}
